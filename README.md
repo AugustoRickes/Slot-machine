@@ -1,2 +1,2 @@
 # Slot-machine
- Grambling game 🎰
+ Gambling game 🎰
